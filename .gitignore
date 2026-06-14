@@ -1,0 +1,28 @@
+# Database config (contains passwords)
+config/database.php
+
+# Logs
+*.log
+error_log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PHP vendor (ถ้าใช้ Composer)
+vendor/
+
+# Environment
+.env
+.env.local
+
+# Temp / cache
+/tmp/
+/cache/
